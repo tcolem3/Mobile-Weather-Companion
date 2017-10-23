@@ -1,12 +1,12 @@
 # Mobile-Weather-Companion
 
-To install this apk for those that might be unfamiliar, follow the steps in this link (https://www.wikihow.tech/Install-APK-Files-on-Android). Within part 2 of the directions ignore steps 1, 2, and 3 as you will be downloading my apk from this repo and not the website they tell you to look up.
+To install this apk for those who might be unfamiliar, follow the steps in this link (https://www.wikihow.tech/Install-APK-Files-on-Android). Within part 2 of the directions ignore steps 1, 2, and 3 as you will be downloading my apk from this repo and not how the linked directions tell you to look up.
 
-Before opening the app, look at the png file titled "Capture with labels" for reference to terminology used in the app.
+Before opening the app, look at the png file titled "Capture with labels" to reference the terminology used in the app.
 
 Once apk is loaded, open the app to begin navigation.
 
-From the top to the bottom the app will display these fields:
+From the top to the bottom, the app will display these fields:
 - An image of the current weather
 - The current city being displayed
 - The weather for the current city
